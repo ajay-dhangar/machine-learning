@@ -7,6 +7,8 @@
 [![Follow Ajay Dhangar on GitHub](https://img.shields.io/github/followers/Ajay-Dhangar?style=social)](https://github.com/Ajay-Dhangar)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+* [ML Lab](https://colab.research.google.com/drive/1bA5NuPFOKj3cyaz0awzh81HzVBY1yr2z?usp=sharing)
+
 ---
 
 ## Overview
